@@ -1,0 +1,23 @@
+.paper-container {
+    padding: 16px;
+    background-color: #1F2A63;
+    color: #FFF;
+    text-align: center;
+  }
+  
+  .paper-container h6 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .paper-container h4 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #E74C3C;
+  }
+  
+  .paper-container subtitle1 {
+    font-size: 14px;
+    color: #BDC3C7;
+  }
+  

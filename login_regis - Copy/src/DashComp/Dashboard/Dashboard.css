@@ -1,0 +1,33 @@
+.dashboard-container {
+  background-color: #2C3E50;
+  min-height: 100vh;
+  padding: 16px;
+}
+
+.dashboard-title {
+  color: #FFF;
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.paper-container, .chart-container {
+  padding: 16px;
+  background-color: #1F2A63;
+  color: #FFF;
+  text-align: center;
+}
+
+.paper-container h6, .chart-container h6 {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
+.paper-container h4, .chart-container h4 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.bar-chart, .line-chart, .pie-chart {
+  width: 100%;
+  height: 300px;
+}

@@ -1,0 +1,29 @@
+.paper-container {
+    padding: 16px;
+    background-color: #1F2A63;
+    color: #FFF;
+    text-align: center;
+  }
+  
+  .paper-container h6 {
+    font-size: 16px;
+    margin-bottom: 8px;
+  }
+  
+  .paper-container h4 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 16px;
+  }
+  
+  .paper-container subtitle1 {
+    font-size: 14px;
+    color: #BDC3C7;
+  }
+  
+  .chart-container {
+    padding: 20px;
+    text-align: center;
+    color: #333;
+    margin: 20px 0;
+}
